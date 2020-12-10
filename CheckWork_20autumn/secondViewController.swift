@@ -9,8 +9,6 @@ import UIKit
 
 class secondViewController: UIViewController {
     
-    @IBOutlet var dateField: UITextField!
-    @IBOutlet var titleField: UITextField!
     @IBOutlet var contextTextView: UITextView!
     
     @IBOutlet var pageLabel: UILabel!
