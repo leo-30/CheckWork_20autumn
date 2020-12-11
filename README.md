@@ -10,6 +10,9 @@
 
 ## 出題内容
 詳しい説明付きのスライドは[こちら](https://drive.google.com/file/d/1TEIjTsDZ5Sl97vUX_B0TeW_gUtUurHpn/view?usp=sharing)
+<br>
+今回は2問目までできればベスト！3,4問目はおまけの応用問題です。
+
 ### 1問目
 - 日記を作ろう！
 - 本文をsaveボタンで保存する。
