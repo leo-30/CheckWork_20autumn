@@ -2,14 +2,11 @@
 れお班20秋学期のチェックワーク
 
 ## 模範解答のプロジェクトの見方
-1. Main.Storyboardを開く  
-<br>
-2. 左から1問目→4問目と並んでいるので、見たいところに矢印(→)をドラッグ&ドロップする  
-<br>
+1.Main.Storyboardを開く  
+2.左から1問目→4問目と並んでいるので、見たいところに矢印(→)をドラッグ&ドロップする  
 3.Runする
-<br>
-＊ コードは1問目→firstViewController、2問目→secondViewController、3問目→thirdViewController、4問目→fourthViewControllerに対応している
-<br>
+
+4.コードは1問目→firstViewController、2問目→secondViewController、3問目→thirdViewController、4問目→fourthViewControllerに対応している
 
 ## 出題内容
 詳しい説明付きのスライドは[こちら](https://drive.google.com/file/d/1TEIjTsDZ5Sl97vUX_B0TeW_gUtUurHpn/view?usp=sharing)
